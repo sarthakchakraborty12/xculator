@@ -21,8 +21,18 @@ pyinstaller :
 tkinter :
 ```pip install Tk```
 
-now, for now the project is very basic. it has a fixed width and height. but in case you want a flexible and responsive UI, just change the root.resizable to 'true' like this :
+If you are having trouble running the pyinstaller command you can use this :
+
+
+```python -m PyInstaller --onefile --noconsole XCulator.py```
+
+
+or if you are building the consoled version then build it without the 'noconsole' flag like this : 
+
+```python -m PyInstaller --onefile XCulator.py```
+
+Now, for now the project is very basic. it has a fixed width and height. but in case you want a flexible and responsive UI, just change the root.resizable to 'true' like this :
 ```root.resizable(True,True)```
 
-you can play around with everything. the possibility is endless. you can make it more useful by adding different functions and extending its functionality.
+You can play around with everything. the possibility is endless. you can make it more useful by adding different functions and extending its functionality.
 note, the main version will be intact from our side and we will update the main branch only with our code. That means you can't directly contribute to this project but still make your own version of this app.
