@@ -2,6 +2,11 @@
 It is a open souce python-tkinter based simple calculator app.
 I used python and tkinter, a python GUI library to make the calculator app. Since it is made this way, the app needs to use the console to run. But imagine every time you open the calculator and the commannd line opens with it, so basically when we made the .exe file out of the project, basically we made two versions. one which works with terminal and another also runs on terminal obviously because that's basically a python code doing all the things. so the second version desn't show the terminal at all but runs the program in background as normal applications run their processes.
 So, the main version doesn't open the console, so that some of the antivirus softwares including in built windows security can make false virus recognition as it is running code in console in the background. That is why we decided to make our first project open source so that there's no second question about transparency. If you still find it difficult to somehow run the app, then you can consider the consoled version of the app.
+![python-powered-w-200x80](https://github.com/sarthakchakraborty12/xculator/assets/97733790/5ce7f360-f2e8-4c86-a474-3b78feea5df8)
+![python-powered-w-200x80](https://github.com/sarthakchakraborty12/xculator/assets/97733790/5ce7f360-f2e8-4c86-a474-3b78feea5df8)
+![python-powered-w-200x80](https://github.com/sarthakchakraborty12/xculator/assets/97733790/15dfc246-99f8-443e-92d0-6e538898bc38)
+![python-powered-w-200x80](https://github.com/sarthakchakraborty12/xculator/assets/97733790/15dfc246-99f8-443e-92d0-6e538898bc38)
+
 
 __________________________________________________________________
 * For Users
